@@ -1,96 +1,170 @@
-<h1 align="center">Hi 👋, I'm Hazem Mahmoud</h1>
-<h3 align="center">AI Engineer | Machine Learning Researcher | Software Developer</h3>
+<div align="center">
 
-<p align="center">
-Building intelligent systems that transform data into real-world solutions.
+# Hazem Mahmoud
+
+### Artificial Intelligence Engineer • Machine Learning Researcher • Data Scientist
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Researcher;Healthcare+AI+%7C+Digital+Twins;Building+Intelligent+Systems+for+Real+World+Impact" />
+
+<br>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=hmahmoud2211&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/hmahmoud2211?style=flat&logo=github"/>
+<img src="https://img.shields.io/github/stars/hmahmoud2211?affiliations=OWNER&style=flat"/>
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 Passionate about **Artificial Intelligence** and **Machine Learning**
-- 🏥 Currently researching **Chronic Kidney Disease (CKD) Prediction** using clinical datasets
-- 🤖 Interested in **Digital Twins**, Healthcare AI, Deep Learning, and Predictive Analytics
-- 📊 Building dashboards with **Power BI**
-- 🌱 Continuously learning advanced AI, Data Science, and Cloud Technologies
-- 💡 I enjoy turning complex problems into practical AI solutions.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# About
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+I am an **Artificial Intelligence Engineer** focused on designing intelligent systems that bridge **machine learning research** with real-world healthcare applications.
 
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+My research interests include:
+
+- Artificial Intelligence
+- Machine Learning & Deep Learning
+- Healthcare AI
+- Clinical Decision Support Systems
+- Digital Twins
+- Explainable AI (XAI)
+- Predictive Analytics
+
+Currently, I am developing AI models for **Chronic Kidney Disease prediction** using large-scale clinical datasets while exploring Digital Twin technologies for personalized healthcare.
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js"/>
+
+</p>
+
+### AI & Data Science
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+- Scikit-Learn
+- XGBoost
+- LightGBM
+- CatBoost
+- Pandas
+- NumPy
+- Matplotlib
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 
-### Data Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<p>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+- SQL Server
+
+### Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
+
+</p>
+
+### Data Analytics
+
+- Microsoft Power BI
+- Excel
+- Google Analytics
 
 ---
 
-## 🔬 Current Research
+# Current Focus
 
-- 🧠 AI-Based Chronic Kidney Disease Prediction
-- 🏥 Digital Twin for Healthcare
-- 📈 Explainable AI (XAI)
-- 🤖 Clinical Decision Support Systems
-- 📊 Predictive Analytics using MIMIC-IV Dataset
+- AI for Healthcare
+- CKD Prediction Models
+- MIMIC-IV Clinical Database
+- Explainable Machine Learning
+- Digital Twin Architecture
+- Research Publication
 
 ---
 
-## 📈 GitHub Stats
+# GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hmahmoud2211&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hmahmoud2211&show_icons=true&hide_border=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmahmoud2211&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmahmoud2211&layout=compact&hide_border=true&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=hmahmoud2211&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# Contribution Activity
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=hmahmoud2211&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hmahmoud2211&theme=github-compact&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📫 Connect With Me
+# Research Interests
 
-<p align="left">
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Medical AI
+- Predictive Modeling
+- Digital Twins
+- Explainable AI
+- Data Mining
+- Computer Vision
+- Clinical Informatics
+
+---
+
+# Selected Projects
+
+- AI-Based Chronic Kidney Disease Prediction
+- Healthcare Digital Twin Framework
+- Clinical Machine Learning Pipelines
+- Power BI Analytics Dashboards
+- API Integration Systems
+
+---
+
+# Connect
+
+<p>
 
 <a href="https://github.com/hmahmoud2211">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<!-- Add your LinkedIn -->
+<!-- Add LinkedIn -->
+
 <!--
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/YOURPROFILE">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 -->
 
@@ -98,6 +172,8 @@ Building intelligent systems that transform data into real-world solutions.
 
 ---
 
-> *"Artificial Intelligence is not about replacing humans; it's about empowering them with better decisions."*
+<div align="center">
 
-⭐ Feel free to explore my repositories and collaborate on exciting AI and Machine Learning projects!
+### *"Building AI that makes better decisions for better healthcare."*
+
+</div>
