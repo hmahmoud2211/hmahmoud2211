@@ -210,20 +210,14 @@ My long-term goals include:
 
 ---
 
-# GitHub Statistics
+## GitHub Activity
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hmahmoud2211&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmahmoud2211&layout=compact&hide_border=true&theme=transparent"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=hmahmoud2211&theme=transparent&hide_border=true"/>
-
+  <img
+    src="https://raw.githubusercontent.com/hmahmoud2211/hmahmoud2211/main/github-metrics.svg"
+    alt="Hazem Mahmoud GitHub activity, languages, repositories, and contributions"
+    width="100%"
+  />
 </p>
 
 ---
