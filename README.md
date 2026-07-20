@@ -214,22 +214,10 @@ My long-term goals include:
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/hmahmoud2211/hmahmoud2211/main/github-metrics.svg"
+    src="https://raw.githubusercontent.com/hmahmoud2211/hmahmoud2211/Master/github-metrics.svg"
     alt="Hazem Mahmoud GitHub activity, languages, repositories, and contributions"
     width="100%"
   />
-</p>
-
----
-
-# GitHub Dashboard
-
-> A live GitHub Metrics dashboard is generated automatically using GitHub Actions and displays real contribution statistics, repositories, coding habits, languages, achievements, and activity.
-
-<p align="center">
-
-<img src="./assets/github-metrics.svg" width="100%">
-
 </p>
 
 ---
