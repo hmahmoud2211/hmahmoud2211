@@ -2,21 +2,25 @@
 
 # Hazem Mahmoud
 
-### Artificial Intelligence Engineer • Machine Learning Researcher
+### Software Engineer • Artificial Intelligence Developer • Machine Learning Researcher
 
-Building trustworthy AI systems for Healthcare, Digital Twins, and Predictive Analytics.
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Engineer;Machine+Learning+Researcher;Healthcare+AI+%7C+Digital+Twins;Building+Trustworthy+Intelligent+Systems" />
+<p>
+Building intelligent systems that transform data into trustworthy, real-world solutions.
 </p>
 
-<p align="center">
+<p>
 
-<a href="https://github.com/hmahmoud2211">
-<img src="https://img.shields.io/github/followers/hmahmoud2211?style=flat-square&logo=github&label=Followers"/>
+<a href="https://www.linkedin.com/in/hazem-mahmoud-817558267">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=hmahmoud2211&style=flat-square&color=blue"/>
+<a href="mailto:Hazemmahmoud512@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hmahmoud2211">
+<img src="https://img.shields.io/github/followers/hmahmoud2211?style=for-the-badge&logo=github&label=Followers"/>
+</a>
 
 </p>
 
@@ -24,86 +28,100 @@ Building trustworthy AI systems for Healthcare, Digital Twins, and Predictive An
 
 ---
 
-# Mission
+# About Me
 
-I develop intelligent systems that transform complex clinical and real-world data into reliable decision-support solutions.
+I am a **Software Engineer** and **Artificial Intelligence Developer** passionate about building intelligent systems that solve meaningful real-world problems.
 
-My work combines **Artificial Intelligence**, **Machine Learning**, and **Software Engineering** to build scalable healthcare technologies with a strong emphasis on explainability, predictive analytics, and digital twin architectures.
+My work combines software engineering principles with modern machine learning techniques to develop scalable, explainable, and production-ready AI applications.
+
+My long-term objective is to contribute to cutting-edge research while engineering intelligent systems that improve healthcare and society.
 
 ---
 
-# Research Areas
+# Research Vision
+
+I believe Artificial Intelligence should be:
+
+- Explainable
+- Reliable
+- Scalable
+- Human-Centered
+
+My current research focuses on leveraging machine learning to improve healthcare through predictive modeling, clinical decision support systems, and Digital Twin technologies.
+
+---
+
+# Areas of Interest
 
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
 - Healthcare AI
-- Digital Twins
 - Explainable AI (XAI)
-- Clinical Decision Support Systems
-- Predictive Analytics
-- Medical Data Mining
 - Computer Vision
+- Clinical Decision Support Systems
+- Digital Twins
+- Predictive Analytics
+- Data Engineering
 
 ---
 
-# Current Work
+# Technical Skills
 
-### AI-Based Chronic Kidney Disease Prediction
+## Programming Languages
 
-Developing machine learning models using large-scale clinical datasets to support early diagnosis and personalized treatment planning.
+<p>
 
-Current research includes:
-
-- Explainable Machine Learning
-- MIMIC-IV Clinical Database
-- Feature Engineering
-- Healthcare Digital Twins
-- Clinical Predictive Analytics
-
----
-
-# Technology Stack
-
-### Programming Languages
-
-<p align="left">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js"/>
+
 </p>
 
-### Artificial Intelligence
+---
 
-<p align="left">
+## Artificial Intelligence
+
+<p>
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
 </p>
 
-**Frameworks & Libraries**
+Libraries
 
 - Scikit-Learn
 - XGBoost
-- LightGBM
-- CatBoost
 - Pandas
 - NumPy
+- OpenCV
 - Matplotlib
 
-### Databases
+---
 
-<p align="left">
+## Software Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux"/>
+
+</p>
+
+---
+
+## Databases
+
+<p>
+
 <img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
 
 - Microsoft SQL Server
 
-### Development Tools
+---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
-</p>
+## Data Analytics
 
-### Analytics
-
-- Microsoft Power BI
+- Power BI
 - Microsoft Excel
 - Google Analytics
 
@@ -111,13 +129,84 @@ Current research includes:
 
 # Featured Projects
 
-| Project | Description | Status |
-|----------|-------------|:------:|
-| CKD Prediction | Machine learning pipeline for early Chronic Kidney Disease prediction | 🟢 |
-| Healthcare Digital Twin | Personalized healthcare digital twin architecture | 🟢 |
-| Clinical AI | AI-powered clinical decision-support models | 🟢 |
-| Power BI Dashboards | Interactive healthcare analytics dashboards | 🟢 |
-| API Integration | Social media & analytics integration systems | 🟢 |
+## 🏥 Kidney Lab Entry
+
+Machine learning solution designed for intelligent healthcare data processing and laboratory management.
+
+**Technologies**
+
+Python • Machine Learning • Data Analysis
+
+Repository
+
+https://github.com/hmahmoud2211/Kindney-lab-entry
+
+---
+
+## 🌙 Night Vision System
+
+Computer vision system for enhancing low-light imagery using image processing and AI techniques.
+
+**Technologies**
+
+Python • OpenCV • Computer Vision
+
+Repository
+
+https://github.com/hmahmoud2211/Night-Vision-System
+
+---
+
+## 🏥 Aura Hospital
+
+Healthcare management platform focused on improving hospital workflow and patient management.
+
+**Technologies**
+
+Java • SQL • Software Engineering
+
+Repository
+
+https://github.com/hmahmoud2211/AuraHospital
+
+---
+
+## 🤖 AI Agent for Docking
+
+AI-powered autonomous docking assistant using intelligent decision-making algorithms.
+
+**Technologies**
+
+Python • Artificial Intelligence
+
+Repository
+
+https://github.com/hmahmoud2211/AI_Agent_For_Docking
+
+---
+
+# Current Research
+
+I am currently working on:
+
+- AI-Based Chronic Kidney Disease Prediction
+- Healthcare Digital Twins
+- Explainable Machine Learning
+- Clinical Decision Support Systems
+- Large Clinical Dataset Analysis
+- MIMIC-IV
+
+---
+
+# Professional Goals
+
+My long-term goals include:
+
+- Publishing research in IEEE, Springer, and Nature journals.
+- Pursuing graduate studies in Artificial Intelligence.
+- Building reliable AI systems for healthcare.
+- Contributing to open-source AI projects.
+- Joining a world-class engineering team where I can solve challenging real-world problems.
 
 ---
 
@@ -125,9 +214,9 @@ Current research includes:
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hmahmoud2211&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hmahmoud2211&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmahmoud2211&layout=compact&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmahmoud2211&layout=compact&hide_border=true&theme=transparent"/>
 
 </p>
 
@@ -139,71 +228,56 @@ Current research includes:
 
 ---
 
-# Contributions
+# GitHub Dashboard
+
+> A live GitHub Metrics dashboard is generated automatically using GitHub Actions and displays real contribution statistics, repositories, coding habits, languages, achievements, and activity.
 
 <p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hmahmoud2211&theme=github-compact&hide_border=true"/>
+<img src="./assets/github-metrics.svg" width="100%">
 
 </p>
 
 ---
 
-# Professional Interests
-
-```text
-Artificial Intelligence
-Machine Learning
-Deep Learning
-Healthcare AI
-Digital Twins
-Explainable AI
-Clinical Informatics
-Predictive Analytics
-Medical Data Science
-Software Engineering
-```
-
----
-
 # Publications
 
-🚧 **Coming Soon**
+### Current Research
 
-Current research:
-
-- Machine Learning for Chronic Kidney Disease Prediction
+- Machine Learning-Based Chronic Kidney Disease Prediction
 - Digital Twins for Personalized Healthcare
 
+### Future Publications
+
+My goal is to publish high-quality research in:
+
+- IEEE
+- Springer
+- Nature Portfolio
+- Elsevier
+
 ---
 
-# Goals
+# Beyond Coding
 
-- Publish high-impact AI research
-- Develop trustworthy clinical AI systems
-- Advance digital twin technologies for healthcare
-- Contribute to open-source AI projects
+Outside of software engineering, I enjoy studying emerging AI research, reading scientific literature, exploring healthcare innovation, and building projects that bridge academic research with practical applications.
 
 ---
 
-# Connect
+# Let's Connect
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/hmahmoud2211">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/hazem-mahmoud-817558267">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_GOOGLE_SCHOLAR">
-<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square"/>
-</a>
-
-<a href="YOUR_ORCID">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square"/>
+<a href="mailto:Hazemmahmoud512@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -212,6 +286,6 @@ Current research:
 
 <div align="center">
 
-> *"Engineering trustworthy AI systems that bridge research and real-world healthcare."*
+### "Engineering intelligent systems that bridge research with real-world impact."
 
 </div>
